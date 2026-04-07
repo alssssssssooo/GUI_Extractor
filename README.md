@@ -1,8 +1,7 @@
-[README.zh-CN.md](https://github.com/user-attachments/files/26541436/README.zh-CN.md)# Extractor GUI
+[README.md](https://github.com/user-attachments/files/26541483/README.md)
+# Extractor GUI
 
-Language: English | [繁體中文][README.zh-TW.md](https://github.com/user-attachments/files/26541429/README.zh-TW.md)
- | [简体中文][Uploading README.zh-CN.md…]()
-
+Language: English | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md)
 
 Note: This project was developed with AI assistance. The source code, structure, and final adjustments should still be reviewed manually before release or redistribution.
 
