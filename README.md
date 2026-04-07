@@ -1,6 +1,10 @@
-[README.md](https://github.com/user-attachments/files/26510960/README.md)
-# Extractor GUI
-*Note: This project was created using AI.
+[README.zh-CN.md](https://github.com/user-attachments/files/26541436/README.zh-CN.md)# Extractor GUI
+
+Language: English | [繁體中文][README.zh-TW.md](https://github.com/user-attachments/files/26541429/README.zh-TW.md)
+ | [简体中文][Uploading README.zh-CN.md…]()
+
+
+Note: This project was developed with AI assistance. The source code, structure, and final adjustments should still be reviewed manually before release or redistribution.
 
 A Windows GUI application for [sk-zk/Extractor](https://github.com/sk-zk/Extractor) that provides an easy-to-use interface for extracting SCS files.
 
@@ -16,7 +20,7 @@ A Windows GUI application for [sk-zk/Extractor](https://github.com/sk-zk/Extract
 ## Requirements
 
 - Windows 10 or later
-- .NET 8.0 Runtime (automatically included in published executable)
+- .NET 10.0 SDK for building from source
 - Internet connection for downloading Extractor
 
 ## Usage
@@ -74,6 +78,10 @@ You can switch languages using the dropdown in the bottom-right corner.
 ## License
 
 This project is open source. The Extractor executable is downloaded from the [sk-zk/Extractor](https://github.com/sk-zk/Extractor) project.
+
+## AI Disclosure
+
+This GUI project was produced with AI assistance during design and implementation. Verify functionality, security, licensing compatibility, and release contents yourself before publishing.
 
 ## Contributing
 
